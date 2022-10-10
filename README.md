@@ -1,5 +1,4 @@
 # youtube_downloader
-#### Video Demo:  https://www.youtube.com/watch?v=rPH0FzfIJZI
 #### Description:
 YouTube downloader (using pytube and argparse)
 Inspired by https://github.com/tuomaskivioja/3-Simple-Python-Projects
